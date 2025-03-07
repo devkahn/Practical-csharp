@@ -71,6 +71,7 @@
   <ItemGroup>
     <Compile Include="Part01_WarmUp\Ch01_OOP\Ch01_01_Class.cs" />
     <Compile Include="Part01_WarmUp\Ch01_OOP\Ch01_00_OOP.cs" />
+    <Compile Include="Part01_WarmUp\Ch01_OOP\Ch01_02_Struct.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
